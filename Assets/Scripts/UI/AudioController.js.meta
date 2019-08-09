@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: 6152021e451fbfd41a7ea67ca3d9caf8
+timeCreated: 1516125083
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - loopAudio: {instanceID: 0}
+  - musicSource: {instanceID: 0}
+  - musicSourcePrefab: {fileID: 1973960435663616, guid: 2362b4c7710955446bb2856f88f23578,
+      type: 2}
+  - button: {fileID: 8300000, guid: ab5c27a6a7092a6448116ad37dbb4e8b, type: 3}
+  - blop: {fileID: 8300000, guid: ab5c27a6a7092a6448116ad37dbb4e8b, type: 3}
+  - bloop: {fileID: 8300000, guid: 5c2f3cb0c79f6f74e801be368eec0f42, type: 3}
+  - blopOn: {fileID: 8300000, guid: 674b77061eed74e4f8b947bbf6ad990b, type: 3}
+  - blopOff: {fileID: 8300000, guid: 7a64255049f3da84fbdb7f16b2a83d85, type: 3}
+  - jump: {fileID: 8300000, guid: 4ff4cb6868a31104e9d832ba87177b07, type: 3}
+  - doubleJump: {fileID: 8300000, guid: cab34a6d8b83e594593a60f4b4bdfd66, type: 3}
+  - shaking: {fileID: 8300000, guid: 7a40191d4e9fc924bb55bebea64d2913, type: 3}
+  - petting: {fileID: 8300000, guid: 5700e03e10ea90e44a3365e87c843efb, type: 3}
+  - musicBox: {fileID: 8300000, guid: ecc27654c9d5f5c4891d2489d077a8b2, type: 3}
+  - chick: {fileID: 8300000, guid: e619e6a196252654eb907e00f171d42f, type: 3}
+  - chooseLevel: {instanceID: 0}
+  - money: {fileID: 8300000, guid: ea626505495a84b45921c3a27d42bbf9, type: 3}
+  - coin: {fileID: 8300000, guid: ab5c27a6a7092a6448116ad37dbb4e8b, type: 3}
+  - hoop: {instanceID: 0}
+  - success1: {fileID: 8300000, guid: bcea98cbb85d2c746bc4fac300718966, type: 3}
+  - success2: {fileID: 8300000, guid: 7bb5c0b09d05aa247ae86fad02ae7755, type: 3}
+  - gameOver: {fileID: 8300000, guid: 14188ce7c53c0eb4daa2d76def2b4fe6, type: 3}
+  - gameOverSong: {instanceID: 0}
+  - bite: {fileID: 8300000, guid: 80e0fc10308dd2847b4e2596f6c5451e, type: 3}
+  - newRecord: {fileID: 8300000, guid: ecc27654c9d5f5c4891d2489d077a8b2, type: 3}
+  - love: {fileID: 8300000, guid: bcea98cbb85d2c746bc4fac300718966, type: 3}
+  - footsteps: {fileID: 8300000, guid: 674b77061eed74e4f8b947bbf6ad990b, type: 3}
+  - trip: {fileID: 8300000, guid: 7a64255049f3da84fbdb7f16b2a83d85, type: 3}
+  - cheer: {instanceID: 0}
+  - ANote: {fileID: 8300000, guid: 249154d9a3c7eb449a157baca10091aa, type: 3}
+  - BNote: {fileID: 8300000, guid: 9bf950394714b4745b899881b0924218, type: 3}
+  - CNote: {fileID: 8300000, guid: a1b67447de3364b47b42b402b3d56f29, type: 3}
+  - ENote: {fileID: 8300000, guid: ad69fd88792b72649ad154d1abc51aea, type: 3}
+  - trumpetFanfare: {fileID: 8300000, guid: 40e59689b4917244c8ab0cea95b75ba4, type: 3}
+  - lose: {instanceID: 0}
+  - happy: {fileID: 8300000, guid: 55561173a4cf4b94fac7eef3b590a29a, type: 3}
+  - raceOverSong: {instanceID: 0}
+  executionOrder: -30
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

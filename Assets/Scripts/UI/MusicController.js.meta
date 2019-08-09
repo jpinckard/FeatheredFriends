@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b57362fd144b7644e9026c5cc91a3894
+timeCreated: 1514497612
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainTheme: {fileID: 8300000, guid: c31b2ac7b704e674298f7c03432a0fd1, type: 3}
+  - raceCompetitionTheme: {fileID: 8300000, guid: 65a7bf2fa630cb04295d2c5766d95187,
+      type: 3}
+  - runningTheme: {fileID: 8300000, guid: c111dea274f337445b07411a8b6437f7, type: 3}
+  - shopTheme: {fileID: 8300000, guid: 633a911336aa71c4f84453bf4fe6fc7d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

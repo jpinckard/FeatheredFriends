@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3e8425c9b3dbbd4b83b18fec69fd03b
+timeCreated: 1511822492
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - eyeClosed: {fileID: 2100000, guid: 70e9292da3055614a8f2e50e87d07354, type: 2}
+  - eyeClosedDark: {fileID: 2100000, guid: 70e9292da3055614a8f2e50e87d07354, type: 2}
+  - eyeClosedLight: {fileID: 2100000, guid: ed04d13dd0e35c044891c818facaf231, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
